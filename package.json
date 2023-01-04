@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/little-snow-fox/react-native-wechat-lib.git"
+    "url": "https://github.com/RabbitNever/react-native-wechat-lib.git"
   },
   "keywords": [
     "wechat",
@@ -23,16 +23,16 @@
   "peerDependencies": {
     "react-native": ">=0.40"
   },
-  "author": "little-snow-fox <fox@sfxh.cc>",
+  "author": "RabbitNever <fox@sfxh.cc>",
   "contributors": [
     {
-      "name": "little-snow-fox",
+      "name": "RabbitNever",
       "email": "fox@sfxh.cc"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/little-snow-fox/react-native-wechat-lib/issues"
+    "url": "https://github.com/RabbitNever/react-native-wechat-lib/issues"
   },
-  "homepage": "https://github.com/little-snow-fox/react-native-wechat-lib#readme"
+  "homepage": "https://github.com/RabbitNever/react-native-wechat-lib#readme"
 }

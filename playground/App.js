@@ -32,7 +32,7 @@ export default class App extends Component {
     description: '微信分享测试',
     thumbImage: 'https://i.loli.net/2019/09/03/62FauzAY37gsEXV.png',
     type: 'news',
-    webpageUrl: 'https://github.com/little-snow-fox/react-native-wechat-lib'
+    webpageUrl: 'https://github.com/RabbitNever/react-native-wechat-lib'
   }
   constructor(props) {
     super(props);
